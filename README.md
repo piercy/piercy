@@ -9,7 +9,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /> 
 <br />
 <br />
-<img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=piercy&show_icons=true&count_private=true&hide_border=true" />
+<img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=piercy&show_icons=true&count_private=true&hide_border=true&theme=dark" />
 
 <br />
 <br />
